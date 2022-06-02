@@ -1,1 +1,22 @@
+{
+"ID": 1,
+"Title": "Widget doesn’t have dotted frames on display",
+  
+"Severity": "Major",
+"Priority": "High",
+  
+"Environment": "Xiaomi Redmi Note 5", "Android 8.7.4,MIUI Global 11.0.3 Stable"
+"Precondition": "In settings of the mobile device, the text size decreased to minimum, 5x6"
+  
+"STR": [{
+"Open application",
+"Click on widget button",
+"Prepare clear desktop",
+"Change size of widget"
+}],
 
+"AR": "Widget dont have dotted frames",
+"ER": "Widget have dotted frames on all sides",
+
+"Attachments": "https://...."
+}
